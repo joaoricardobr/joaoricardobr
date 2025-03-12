@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Ricardo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá! Meu nome é João Ricardo, sou Engenheiro da Computação, Full Stack Developer e Perito Forense Computacional com 38 anos de idade. Com uma sólida experiência em desenvolvimento web/mobile, segurança digital e análise forense, ajudo empresas e indivíduos a criar soluções tecnológicas inovadoras e seguras. Acredito que a tecnologia deve ser usada para melhorar vidas, e esse princípio guia tanto minha carreira quanto minha jornada como pai dedicado.
 
